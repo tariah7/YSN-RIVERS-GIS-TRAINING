@@ -1,0 +1,13 @@
+Bearing Label
+Python Code
+[Prefix] + '\r\n'  + [Pillar_ID]
+
+
+VB Script
+[Prefix]&vbnewline& [Prefix] 
+
+
+
+Plot Numbering
+VB Script
+"PLOT "+ [Plot_No]&vbnewline& [Area_SqKm] +" SQ.Km."

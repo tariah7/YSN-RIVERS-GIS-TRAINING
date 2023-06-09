@@ -1,0 +1,4 @@
+<BOL>Text</BOL>
+
+<SUP>0</SUP>
+
